@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3.1" package="org.example.emailui" version="1.0.0">
+    <profile name="wearable"/>
+    <ui-application appid="org.example.emailui" exec="emailui" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>emailui</label>
+        <icon>emailui.png</icon>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+    </privileges>
+</manifest>

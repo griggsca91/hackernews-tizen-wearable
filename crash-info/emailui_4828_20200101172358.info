@@ -1,0 +1,22 @@
+Executable File Path: <unknown>
+Signal: 5
+      (SIGTRAP)
+
+Register Information
+gs  = 0x00000033, fs  = 0x00000000
+es  = 0x0000007b, ds  = 0x0000007b
+edi = 0x00000034, esi = 0xb77a5fcc
+ebp = 0xbf802318, esp = 0xbf801ebc
+eax = 0xb77a68e4, ebx = 0x00000000
+ecx = 0x00000001, edx = 0x00000000
+eip = 0xb77922f1
+
+Memory information
+MemTotal:   507828 KB
+MemFree:	    10348 KB
+Buffers:	    37208 KB
+Cached:	    226368 KB
+
+Callstack Information (PID:4828)
+Call Stack Count: 0
+End of Call Stack
